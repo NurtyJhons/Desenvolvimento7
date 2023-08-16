@@ -1,11 +1,11 @@
 Verdadeiro
 
-False
+Falso
 
-False
+Falso
 
-False
+Falso
 
-True
+Verdadeiro
 
-False
+Falso
